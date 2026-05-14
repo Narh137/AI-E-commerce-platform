@@ -1,7 +1,9 @@
-## AI E-commerce Platform
+
+AI E-commerce Platform
 
 An end-to-end e-commerce web application powered by AI for personalized shopping, smart search, and automated operations. Built to increase conversion, average order value, and reduce manual workload.
 
+## summery
 1. Overview
 
 This project combines a standard e-commerce store with AI features like product recommendations, semantic search, AI-generated product descriptions, and customer support chatbots.
