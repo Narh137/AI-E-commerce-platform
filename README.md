@@ -4,8 +4,6 @@ An end-to-end e-commerce web application powered by AI for personalized shopping
 
 ## summery
 
-1. Overview
-
 This project combines a standard e-commerce store with AI features like product recommendations, semantic search, AI-generated product descriptions, and customer support chatbots.
 
 *Goal*: Ship a production-ready store where AI improves discovery, personalization, and operations without making it overly complex to maintain.
