@@ -1,7 +1,7 @@
 # AI E-commerce Platform
 
 
-## summery
+## summery ##
 An end-to-end e-commerce web application powered by AI for personalized shopping, smart search, and automated operations. Built to increase conversion, average order value, and reduce manual workload.
 
 ## overview 
